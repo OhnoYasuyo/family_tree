@@ -1,0 +1,17 @@
+┌─────────────────────────────────┐
+│　　　　　　　　　　　　　　終了します　　　　　　　　　　　　　　│
+└─────────────────────────────────┘
+
+　　　　　　　　　　　 ┏━━━━━━━━━━┓
+　　　　　　　　　　　 ┃　家系図作成ソフト　┃
+　　　　　　　　　　　 ┣━━━━━━━━━━┫
+　　　　　　　　　　　 ┠┬─あのこ　　　　　┃
+　　　　　　　　　　　 ┃│　├──だれのこ　┃
+　　　　　　　　　　　 ┗┷━┷━━━━━━━┛
+
+　　　　Special thanks to Mr. Tomoya Akaza, Mr.Hyokjin Chan 　　　　　
+　　　　　　　　　　　 and all my CLASS MATES!! 　　　　　　　　　　　
+
+　　　　　　　　　　　　Created by OHNO Yasuyo
+　　　　　　　　　　　　210L1-4, SY IT College
+　　　　　　　　　　　　　　　2023/01/08
